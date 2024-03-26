@@ -1,8 +1,7 @@
-# React + Vite
+# Rolling Dice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Rolling Dice Game! This is a simple game where you roll dice and try to achieve a target number.
 
-Currently, two official plugins are available:
+# Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a command-line-based rolling dice game implemented in React. It simulates the rolling of one or more dice and calculates the total sum. The player's objective is to reach a specific target number by rolling the dice.
